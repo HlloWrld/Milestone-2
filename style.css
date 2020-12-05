@@ -58,7 +58,7 @@ section {
 }
 
 
-.button1, .button3 {
+.button {
     background: green;
     color: white;
     border: none;
@@ -68,30 +68,10 @@ section {
 
 }
 
-.button1 {
+.button {
     text-align: left;
     
 }
-
-.button2 {
-    background: grey;
-    color: white;
-    border: none;
-    text-decoration: none;
-    display: inline-block;
-}
-
-.button4 {
-    background: red;
-    color: white;
-    border: none;
-    text-decoration: none;
-    display: inline-block;
-
-}
-
-
-
 
 @media all and (min-width: 100px) {
     .main1 {
